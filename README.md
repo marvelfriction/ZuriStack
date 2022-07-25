@@ -1,2 +1,2 @@
 # ZuriStack
-A Stack Over Flow Clone (for Zuri task)
+A Task for Zuri - Stack OverFlow Clone
